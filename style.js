@@ -103,7 +103,7 @@ function getstarted(){
     window.location="./Register.html  "
 }
  function signup(){
-    window.location="./index.html  "
+    window.location="./Register.html  "
  }
 
  function signin(){
